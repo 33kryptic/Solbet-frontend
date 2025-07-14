@@ -1,0 +1,1 @@
+// Degen Chat component placeholder
